@@ -1,0 +1,61 @@
+/* ==== GENERAL STYLES ==== */
+
+body {
+  background-color: #eee;
+}
+
+* {
+box-sizing: border-box;
+}
+
+section {
+  max-width: 470px;
+  padding: 10px;
+  margin: 20px auto;
+  color: #333;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+h3 {
+  font-family: Arial, sans-serif;
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+/* The base of every button */
+
+.btn-nav {
+  display: inline-block;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  font-size: 1rem;
+  line-height: 1.42857143;
+  padding: .8rem 1rem;
+  margin-bottom: 0,625rem;
+  border: 1px solid #000;
+  white-space: nowrap;
+  vertical-align: middle;
+  color: #000;
+}
+
+.btn-nav:hover {
+  color: #fff;
+  background-color: #000;
+  transition: background-color .15s ease-in-out;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
